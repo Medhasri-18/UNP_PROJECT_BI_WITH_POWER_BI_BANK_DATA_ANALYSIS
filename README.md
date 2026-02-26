@@ -1,6 +1,8 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_BANK_DATA_ANALYSIS
 
-I have completed my POWER BI project in collaboration with UNP Education :
+As part of my Business Intelligence with Power BI course conducted by the United Network of Professionals (UNP), I successfully completed a comprehensive project focused on data analysis and dashboard development.
+
+
 1.	Comprehensive Financial Analysis – Analyzed company sales ($118.7M), profit ($16.9M), and profitability metrics across multiple dimensions including products, segments, countries, and discount bands.
 2.	Multi-dimensional Dashboards – Created interactive Power BI dashboards for KPI metrics, Sales Analysis, Pricing Analysis, Discount Analysis, Profitability Analysis, Average Performance Overview, and Geography Analysis.
 3.	Data-driven Insights – Identified key growth trends (+247.93% sales growth), product performance (Paseo as top performer at 27.84%), and segment profitability (Government segment leading with $11.4M profit).
