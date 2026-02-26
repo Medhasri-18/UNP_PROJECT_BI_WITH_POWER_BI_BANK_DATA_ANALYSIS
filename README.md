@@ -13,5 +13,8 @@ As part of my Business Intelligence with Power BI course conducted by the United
 7.	Team Collaboration – Collaborative project by Team-20 combining data analysis, visualization, and business intelligence expertise for comprehensive financial performance evaluation.
 
 
-# PROJECT PBIX FILE: https://drive.google.com/file/d/1CbSG1ZbFFwE8EzrstdYnlbT1JmGTeuMh/view?usp=sharing
-# PROJECT PDF FILE: https://drive.google.com/file/d/1kEXP8MS1U75zV1Oc6jcdq32DPIvoqAN-/view?usp=sharing
+# PROJECT PBIX FILE:
+https://drive.google.com/file/d/1CbSG1ZbFFwE8EzrstdYnlbT1JmGTeuMh/view?usp=sharing
+# PROJECT PDF FILE:
+https://drive.google.com/file/d/1kEXP8MS1U75zV1Oc6jcdq32DPIvoqAN-/view?usp=sharing
+
