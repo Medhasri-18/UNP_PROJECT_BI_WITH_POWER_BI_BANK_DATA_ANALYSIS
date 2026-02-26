@@ -2,6 +2,7 @@
 
 As part of my Business Intelligence with Power BI course conducted by the United Network of Professionals (UNP), I successfully completed a comprehensive project focused on data analysis and dashboard development.
 
+Key highlights of the project include:
 
 1.	Comprehensive Financial Analysis – Analyzed company sales ($118.7M), profit ($16.9M), and profitability metrics across multiple dimensions including products, segments, countries, and discount bands.
 2.	Multi-dimensional Dashboards – Created interactive Power BI dashboards for KPI metrics, Sales Analysis, Pricing Analysis, Discount Analysis, Profitability Analysis, Average Performance Overview, and Geography Analysis.
